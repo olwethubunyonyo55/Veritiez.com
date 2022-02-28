@@ -9,7 +9,7 @@ dataDir: "_data"
 pagesDir: ""
 pageLayoutKey: null
 logicFields:
-  - service.weight
+  - platform.weight
   - team.weight
 models:
   config:
@@ -61,10 +61,10 @@ models:
         name: layout
         default: "home"
         hidden: true
-  services:
+  platforms:
     type: page
-    label: Services
-    file: services.md
+    label: Platforms
+    file: platforms.md
     singleInstance: true
     fields:
       - type: string
@@ -126,10 +126,10 @@ models:
             value: page
           - label: contact
             value: contact
-  service:
+  platform:
     type: page
     label: Service
-    folder: _services
+    folder: _platforms
     match: "*"
     fields:
       - type: string
@@ -148,8 +148,8 @@ models:
       - type: enum
         name: layout
         options:
-          - label: service
-            value: service
+          - label: platform
+            value: platform
   team:
     type: page
     label: Team

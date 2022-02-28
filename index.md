@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Veritiez Platforms
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Veritiez builds resilient platforms and spur innovation
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Veritiez Platforms
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Building resiliency platforms and spurring innovation in various industries: customers are using the Veritiez Platforms to advance industries and communities.

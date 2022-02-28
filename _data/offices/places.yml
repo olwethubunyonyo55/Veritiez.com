@@ -1,0 +1,11 @@
+- title: Cape Town
+  url: http://google.com
+  location:
+  latitude: 48.8587741
+  longitude: 2.2074741
+
+- title: Johannesburg
+  url: http://google.com
+  location:
+  latitude: 40.4378698
+  longitude: -3.8196204
