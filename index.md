@@ -10,4 +10,4 @@ show_call_box: true
 
 # Veritiez Platforms
 
-Building resiliency platforms and spurring innovation in various industries: customers are using the Veritiez Platforms to advance industries and communities.
+Building resilient platforms and spurring innovation in various industries: customers are using the Veritiez Platforms to advance industries and communities.
